@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="oop" type="GROUP"/>
+  <resource name="functions" type="GROUP"/>
+  <resource name="world" type="GROUP"/>
+  <resource name="log" type="GROUP"/>
+  <resource name="scrParseJmaps" type="RESOURCE"/>
+  <resource name="showDS" type="RESOURCE"/>
+  <resource name="genRandIndex" type="RESOURCE"/>
+  <resource name="checkKind" type="RESOURCE"/>
+  <resource name="checkEffect" type="RESOURCE"/>
+  <resource name="checkOutputName" type="RESOURCE"/>
+</resources>

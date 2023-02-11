@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="scrGetObjIndex" type="RESOURCE"/>
+  <resource name="checkSprite" type="RESOURCE"/>
+  <resource name="parseSkin" type="RESOURCE"/>
+  <resource name="parseSound" type="RESOURCE"/>
+  <resource name="parse sprite related" type="GROUP"/>
+  <resource name="jmap2gm" type="GROUP"/>
+  <resource name="bigmap" type="GROUP"/>
+</resources>

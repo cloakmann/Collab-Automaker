@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="scrCreate" type="RESOURCE"/>
+  <resource name="scrStep" type="RESOURCE"/>
+  <resource name="scrDraw" type="RESOURCE"/>
+  <resource name="scrFin" type="RESOURCE"/>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="scrDeepCopy" type="RESOURCE"/>
+  <resource name="createConfig" type="RESOURCE"/>
+  <resource name="loadConfig" type="RESOURCE"/>
+</resources>

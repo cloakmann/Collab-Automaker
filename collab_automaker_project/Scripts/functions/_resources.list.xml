@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="isFolder" type="RESOURCE"/>
+  <resource name="phase 1" type="GROUP"/>
+  <resource name="phase 2" type="GROUP"/>
+  <resource name="phase 3" type="GROUP"/>
+</resources>

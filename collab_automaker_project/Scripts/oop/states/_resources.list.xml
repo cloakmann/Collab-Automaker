@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="phase1 - init" type="GROUP"/>
+  <resource name="phase2 - load resource" type="GROUP"/>
+  <resource name="phase3 - generation" type="GROUP"/>
+  <resource name="scrPhase1" type="RESOURCE"/>
+  <resource name="scrPhase2" type="RESOURCE"/>
+  <resource name="scrPhase3" type="RESOURCE"/>
+</resources>

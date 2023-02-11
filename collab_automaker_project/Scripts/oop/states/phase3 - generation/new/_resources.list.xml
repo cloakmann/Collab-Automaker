@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="scrAddSprites2" type="RESOURCE"/>
+  <resource name="scrAddBackground2" type="RESOURCE"/>
+  <resource name="scrAddScripts" type="RESOURCE"/>
+  <resource name="scrAddRooms2" type="RESOURCE"/>
+  <resource name="scrAddSounds2" type="RESOURCE"/>
+  <resource name="scrFinalize" type="RESOURCE"/>
+</resources>
